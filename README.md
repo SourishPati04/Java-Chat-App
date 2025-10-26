@@ -54,12 +54,4 @@ java -cp out com.yourpackage.Client
 
 Start chatting! Clients will connect to the server and can send/receive messages.
 
-🧩 Project Structure
-Java-Chat-App/
-├── src/
-│   ├── com/yourpackage/
-│   │   ├── Server.java
-│   │   ├── Client.java
-│   │   └── ClientHandler.java
-├── .gitignore
-└── README.md
+
